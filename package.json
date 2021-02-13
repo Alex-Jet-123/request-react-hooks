@@ -1,6 +1,6 @@
 {
   "name": "request-react-hooks",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Hook for making asynchronous requests and subscribing to updates request state",
   "main": "lib/index.js",
   "types": "lib",
@@ -40,5 +40,14 @@
     "tsconfig.json",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/aleksandrjet/request-react-hooks/issues",
+    "email": "aleksandrjet@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleksandrjet/request-react-hooks"
+  },
+  "homepage": "https://github.com/aleksandrjet/request-react-hooks"
 }
