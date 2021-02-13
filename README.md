@@ -93,7 +93,7 @@ const [requestState, lazyRequest] = useLazyRequest(asyncRequest)
 // - its working
 lazyRequest(111, '111')
 
-// - its error typescript!
+// - will be a typescript error
 lazyRequest('111', 111) 
 ```
 
